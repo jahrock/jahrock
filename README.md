@@ -16,9 +16,8 @@ I craft high-performance, user-centric applications with a focus on **clean arch
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?logo=ember.js&logoColor=white)
+![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?logo=emberdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -35,6 +34,10 @@ For me, UX collaboration and pixel-perfect implementation are just as important 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
+![QUnit](https://img.shields.io/badge/QUnit-0A0A0A?logo=qunit&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white)
+
 I have established test automation as an integral part of development.
 From unit to E2E tests (including hardware JIGs), I ensure reproducible quality and seamless CI integration.
 
@@ -48,13 +51,13 @@ From unit to E2E tests (including hardware JIGs), I ensure reproducible quality 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-![JSON%20API](https://img.shields.io/badge/JSON%20API-000000?logo=json&logoColor=white)
+![JSON API](https://img.shields.io/badge/JSON%20API-000000?logo=json&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-02569B?logo=swagger&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 
@@ -85,11 +88,11 @@ From Java to .NET to PHP, I have worked on projects spanning the full stack, fro
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-464EB8?logo=microsoftteams&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?logo=miro&logoColor=black)
 
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Zeroheight](https://img.shields.io/badge/Zeroheight-0D0D0D?logo=zeroheight&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?logo=miro&logoColor=black)
 
 ![Adobe Experience Manager](https://img.shields.io/badge/Adobe_Experience_Manager-000?logo=adobe&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
